@@ -1,7 +1,4 @@
-# research-amey
-research-amey created by GitHub Classroom
-
-Improving Space Exploration with Drone-Rover Connected Systems
+# Improving Space Exploration with Drone-Rover Connected Systems
 
 The current methodology for conducting Space Exploration of an extraterrestrial body is as follows: 
   1. An Orbital Satellite identifies broad targets with potential anomalies. 

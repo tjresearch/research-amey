@@ -3,6 +3,7 @@
 The current methodology for conducting Space Exploration of an extraterrestrial body is as follows: 
   1. An Orbital Satellite identifies broad targets with potential anomalies. 
   2. An Unmanned Rover is sent to explore the identified targets and anomalies. 
+
 An Anomaly is defined as any unique occurrence that lends greater insight into the previous condition or current status of an extraterrestrial body. For this experiment, only anomalies that had been verified by peer-reviewed studies were assessed.
 
 In this current system, the Satellite can quickly scan large regions, but lacks the precision to correctly identify anomalies. The Rover covers for this weakness by traveling to each anomaly and taking samples. The data collected by the Rover is sent to Earthbound laboratories to determine if an anomaly truly exists and what it reveals about the extraterrestrial body in concern.
